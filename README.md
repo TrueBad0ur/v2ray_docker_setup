@@ -9,7 +9,8 @@ web ui server - https://github.com/vaxilu/x-ui
 
 ## ToDo
 
-- [ ] Ansible
+- [X] Ansible
+- [ ] Clear-up ansible
 - [ ] Env
 
 
