@@ -1,0 +1,7 @@
+https://umaint.github.io/2019/01/04/v2ray-ubuntu/
+https://umaint.github.io/2019/01/05/v2ray-windows/
+
+
+2 ways:
+1 - sh script with SOCKS5 and proxychains
+2 - docker ui client(should change to "On" in Transparent Proxy in settings)

@@ -1,2 +1,10 @@
 client/v2raya/*
 !client/v2raya/.gitkeep
+
+# terraform
+mcs1405272978-openrc.sh
+.terraform/
+.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+vkcs_provider.tf
