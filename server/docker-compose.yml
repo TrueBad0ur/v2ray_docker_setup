@@ -8,3 +8,4 @@ services:
       - ./cert/:/root/cert/
     restart: unless-stopped
     network_mode: host
+    # connect to 54321

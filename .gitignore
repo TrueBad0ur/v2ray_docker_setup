@@ -1,6 +1,9 @@
 client/v2raya/*
 !client/v2raya/.gitkeep
 
+server/db/*
+server/cert/*
+
 # terraform
 mcs1405272978-openrc.sh
 .terraform/
